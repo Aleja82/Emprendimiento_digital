@@ -11,25 +11,36 @@ El sitio tiene un diseño limpio, moderno y funcional, optimizado para ofrecer u
 ### Estructura de carpetas y archivos
 
 La estructura de carpetas y archivos del proyecto es la siguiente:
+# FactorPrisma - Estructura del Proyecto
 
-/FactorPrisma
-│
-├── index.html # Página principal con la bienvenida y planes de servicio
-├── servicios.html # Página con detalles de los servicios
-├── nosotros.html # Página con la descripción del equipo y la empresa
-│
-├── css/ # Carpeta que contiene los archivos de estilo
-│ └── estilos.css # Archivo CSS con los estilos generales del sitio
-│
-├── img/ # Carpeta que contiene las imágenes usadas en el sitio
-│ ├── logo.jpg # Logo de la empresa
-│ ├── prisma.png # Imagen principal de la página de inicio
-│ ├── plan_basico.png # Imagen del Plan Básico
-│ ├── plan_estandar.png # Imagen del Plan Estándar
-│ ├── plan_premium.jpg # Imagen del Plan Premium
-│
-└── README.md # Este archivo de documentación
+## 📂 Directorio Principal  
+**`FactorPrisma/`**  
+│  
+├── **`index.html`** → Página principal con la bienvenida y planes de servicio  
+├── **`servicios.html`** → Detalles de los servicios ofrecidos  
+├── **`nosotros.html`** → Descripción del equipo y la empresa  
 
+## 🎨 Estilos  
+├── **`css/`**  
+│   └── **`estilos.css`** → Estilos generales del sitio  
+
+## 🖼️ Assets Visuales  
+├── **`img/`**  
+│   ├── **`logo.jpg`** → Logo de la empresa  
+│   ├── **`prisma.png`** → Imagen principal de la página de inicio  
+│   ├── **`plan_basico.png`** → Imagen del Plan Básico  
+│   ├── **`plan_estandar.png`** → Imagen del Plan Estándar  
+│   └── **`plan_premium.jpg`** → Imagen del Plan Premium  
+
+## 📄 Documentación  
+└── **`README.md`** → Archivo actual  
+
+---
+
+### 📌 Notas:  
+- Estructura compatible con GitHub.  
+- Todas las imágenes están optimizadas para web.  
+- Diseño responsive (adaptable a móviles).  
 
 ### Características implementadas
 
