@@ -41,10 +41,6 @@ La estructura de carpetas y archivos del proyecto es la siguiente:
 - Diseño responsivo para dispositivos móviles y de escritorio.
 - Animaciones suaves para los enlaces del menú de navegación.
 
-### Capturas de pantalla
-
-*Opcional, pero se recomienda agregar capturas de pantalla del sitio en funcionamiento.*
-
 ### Instrucciones para clonar y visualizar el proyecto
 
 1. Clona el repositorio en tu máquina local:
