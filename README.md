@@ -46,7 +46,7 @@ La estructura de carpetas y archivos del proyecto es la siguiente:
 1. Clona el repositorio en tu máquina local:
 
     ```bash
-    git clone [URL del repositorio]
+    git clone https://github.com/Aleja82/Emprendimiento_digital.git
     ```
 
 2. Navega a la carpeta del proyecto:
